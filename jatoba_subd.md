@@ -231,12 +231,12 @@ Jatoba развивается/разрабатывается только ООО
 
 - 1. **Создайте свои собственные данные для демонстрации работы СУБД.**
 
-![Alternate image text](https://imgur.com/a/AgZCLrY)
+![Alternate image text](https://i.imgur.com/rKhLnUW.png)
 jatoba – база данных, в которой находятся сгенерированные данные
 
 Производим поиск по jatoba, ищем всех «customer»-ов
 
-![Alternate image text](https://imgur.com/a/A9qeFV2)
+![Alternate image text](https://i.imgur.com/DQSHV5V.png)
 
 Этот вывод перечисляет таблицы в схеме "public" базы данных "jatoba" вместе с построенными на них индексами. Каждая строка представляет собой таблицу и связанный с ней индекс. Например, таблица "customer" имеет индекс с названием "idx_customer_email". Аналогично, другие таблицы, такие как "rental", "payment", "film" и "address", также имеют на них построенные индексы.
 
